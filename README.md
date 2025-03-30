@@ -2,6 +2,14 @@
 
 ###
 
+<h2 align="left">🚀 About Me</h2>
+
+###
+
+<p align="left">Hey there! 👋 I'm Nakul, a passionate beginner software engineer exploring the world of coding and development. I enjoy solving problems, building cool projects, and learning new technologies.<br><br>💡 What I Do:<br><br>💻 Web development using HTML, CSS, JavaScript, Bootstrap<br><br>⚙️ Backend programming with Java, C++, C<br><br>🛠️ Database management with SQL & MySQL</p>
+
+###
+
 <h2 align="left">Proramming Languages</h2>
 
 ###
@@ -43,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/Nakul Zod" target="_blank">
+  <a href="https://www.linkedin.com/in/nakul-zod?trk=blended-typeahead" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:nakulgzod@gmail.com" target="_blank">
